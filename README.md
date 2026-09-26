@@ -1,4 +1,4 @@
 # NUGGET's Idle
-Dependencies: Freecam by hashalite \n
-Version: 26.3 \n
-Loader: Fabric \n
+Dependencies: Freecam by hashalite
+Version: 26.3
+Loader: Fabric
