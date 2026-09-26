@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "com.nugget.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "ExampleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "client": [
+    "FreecamMixin",
+    "GUIMixin",
+    "MouseMixin"
+  ]
+}
