@@ -1,4 +1,4 @@
-# AFK CAMERA
-Dependencies: Freecam by hashalite
-Version: 26.3
-Loader: Fabric
+# NUGGET's Idle
+Dependencies: Freecam by hashalite \n
+Version: 26.3 \n
+Loader: Fabric \n
